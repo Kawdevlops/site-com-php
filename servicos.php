@@ -1,4 +1,7 @@
-<?php include "./includes/cabecalho.php" ?>
+<?php 
+$titulo = "Serviços - ";
+include "./includes/cabecalho.php" 
+?>
 
 <!-- 
 A função <//?php include ?> no PHP é usada para inserir o conteúdo de um arquivo externo em uma página PHP. Isso permite reutilizar código, como cabeçalhos, rodapés ou menus, sem duplicá-lo em várias páginas. -->
